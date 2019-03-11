@@ -1,0 +1,16 @@
+D:\!EKF\Interneteszkozei\GyakorlatraProgik\sakk\sakk\obj\x86\Debug\sakk.Form1.resources
+D:\!EKF\Interneteszkozei\GyakorlatraProgik\sakk\sakk\obj\x86\Debug\sakk.Properties.Resources.resources
+D:\!EKF\Interneteszkozei\GyakorlatraProgik\sakk\sakk\obj\x86\Debug\sakk.csproj.GenerateResource.Cache
+D:\!EKF\Interneteszkozei\GyakorlatraProgik\sakk\sakk\bin\Debug\sakk.exe
+D:\!EKF\Interneteszkozei\GyakorlatraProgik\sakk\sakk\bin\Debug\sakk.pdb
+D:\!EKF\Interneteszkozei\GyakorlatraProgik\sakk\sakk\obj\x86\Debug\sakk.exe
+D:\!EKF\Interneteszkozei\GyakorlatraProgik\sakk\sakk\obj\x86\Debug\sakk.pdb
+C:\Users\Whistleblower\source\repos\sakk\sakk\bin\Debug\sakk.exe
+C:\Users\Whistleblower\source\repos\sakk\sakk\bin\Debug\sakk.pdb
+C:\Users\Whistleblower\source\repos\sakk\sakk\obj\x86\Debug\sakk.csprojAssemblyReference.cache
+C:\Users\Whistleblower\source\repos\sakk\sakk\obj\x86\Debug\sakk.Form1.resources
+C:\Users\Whistleblower\source\repos\sakk\sakk\obj\x86\Debug\sakk.Properties.Resources.resources
+C:\Users\Whistleblower\source\repos\sakk\sakk\obj\x86\Debug\sakk.csproj.GenerateResource.cache
+C:\Users\Whistleblower\source\repos\sakk\sakk\obj\x86\Debug\sakk.csproj.CoreCompileInputs.cache
+C:\Users\Whistleblower\source\repos\sakk\sakk\obj\x86\Debug\sakk.exe
+C:\Users\Whistleblower\source\repos\sakk\sakk\obj\x86\Debug\sakk.pdb

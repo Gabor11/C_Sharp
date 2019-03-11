@@ -1,0 +1,10 @@
+C:\Users\Whistleblower\source\repos\triangles\triangles\bin\Debug\triangles.exe.config
+C:\Users\Whistleblower\source\repos\triangles\triangles\bin\Debug\triangles.exe
+C:\Users\Whistleblower\source\repos\triangles\triangles\bin\Debug\triangles.pdb
+C:\Users\Whistleblower\source\repos\triangles\triangles\obj\Debug\triangles.csprojAssemblyReference.cache
+C:\Users\Whistleblower\source\repos\triangles\triangles\obj\Debug\triangles.Form1.resources
+C:\Users\Whistleblower\source\repos\triangles\triangles\obj\Debug\triangles.Properties.Resources.resources
+C:\Users\Whistleblower\source\repos\triangles\triangles\obj\Debug\triangles.csproj.GenerateResource.cache
+C:\Users\Whistleblower\source\repos\triangles\triangles\obj\Debug\triangles.csproj.CoreCompileInputs.cache
+C:\Users\Whistleblower\source\repos\triangles\triangles\obj\Debug\triangles.exe
+C:\Users\Whistleblower\source\repos\triangles\triangles\obj\Debug\triangles.pdb
